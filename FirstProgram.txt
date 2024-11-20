@@ -1,0 +1,17 @@
+import javax.swing.JOptionPane;
+
+class FirstProgram
+{
+   public static void main(string[] args)
+   {     
+      System.out.print("studentId: 2413110368");
+      System.out.print("studentName: Yodsawat Phonsuk");
+      System.out.print("Topic: gitHub");
+      System.out.print("Date: 11/20/2024");
+      JOptionPane.showMessageDialog(null,
+                                  "studentId: 2413110368" +
+                                  "\nstudentName: Yodsawat Phonsuk" +
+                                  "\nTopic: gitHub" +
+                                  "\nDate: 11/20/2024");
+   }
+}
