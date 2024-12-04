@@ -30,7 +30,6 @@ public class withdrawal {
 			        "\n1,000 = "+ (moneyWithdraw/1000)+
 			        "\n500 = "+ ((moneyWithdraw%1000)/500)+
 			        "\n100 = "+ (moneyWithdraw%500/100));	
-		
 		}
 	}
 

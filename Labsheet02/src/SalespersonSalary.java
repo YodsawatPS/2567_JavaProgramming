@@ -25,7 +25,6 @@ public class SalespersonSalary {
 		System.out.println("bye");
 							
 		input.close();
-
 	}
 
 }
