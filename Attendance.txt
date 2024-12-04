@@ -1,4 +1,4 @@
 studentId:2413110368
 studentName:Yodsawat Phonsuk
-Topic:LabSheet#2: Control Statements and Confirm Dialog box
+Topic:Control Statements and Confirm Dialog box
 Date:12/4/2024
