@@ -20,6 +20,7 @@ public class Lab204 {
 			System.out.println((sum - current) + " + " + i + " = " + sum);
 			current++;
 		}
+
 		inputValue.close();
 	}
 }

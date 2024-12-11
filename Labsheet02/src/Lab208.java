@@ -4,6 +4,7 @@ import java.text.*;
 public class Lab208 {
 
 	public static void main(String[] args) {
+
 		Scanner input = new Scanner(System.in);
 		DecimalFormat frm = new DecimalFormat("####.00");
 		// Declare constants

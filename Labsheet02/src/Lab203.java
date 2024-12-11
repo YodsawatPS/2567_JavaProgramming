@@ -21,5 +21,6 @@ public class Lab203 {
 			JOptionPane.showMessageDialog(null, "BMI =" + frm.format(BMI) + "\nYou're Obesity", "BMI",
 					JOptionPane.WARNING_MESSAGE);
 		}
+
 	}
 }
