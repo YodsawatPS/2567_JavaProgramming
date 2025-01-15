@@ -1,4 +1,4 @@
 studentId:2413110368
 studentName:Yodsawat Phonsuk
-Topic:LabSheet#4: Method
-Date:12/18/2024
+Topic:LabSheet #6: Class and Object
+Date:1/15/2025
