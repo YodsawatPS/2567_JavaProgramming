@@ -1,4 +1,4 @@
 studentId:2413110368
 studentName:Yodsawat Phonsuk
-Topic:LabSheet #6: Class and Object
-Date:1/15/2025
+Topic:Lab Sheet #7:Encapsulation Concept
+Date:1/22/2025
