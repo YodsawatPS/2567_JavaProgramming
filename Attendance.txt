@@ -1,4 +1,6 @@
 studentId:2413110368
 studentName:Yodsawat Phonsuk
-Topic:Lab Sheet #7:Encapsulation Concept
-Date:1/22/2025
+Topic:Lab Sheet #9:
+            - Inheritance  Concept
+            - Composition Concept
+Date:2/5/2025
