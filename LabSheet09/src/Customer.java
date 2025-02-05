@@ -1,43 +1,36 @@
 
 public class Customer {
-	
+
 	private int id;
 	private String name;
 	private int discount;
-	
-	Customer(int id,String name ,int discount) {
-		
+
+	Customer(int id, String name, int discount) {
+
 		this.id = id;
-		this.name = name;;
-		this.discount = discount;	
+		this.name = name;
+		;
+		this.discount = discount;
 	}
-	
-	
-	public int getID () {		
-		return this.id;			
+
+	public int getID() {
+		return this.id;
 	}
-	
-	public String getName () {
-		return this.name;		
+
+	public String getName() {
+		return this.name;
 	}
-	
-	public int getDiscount () {
-		return this.discount;			
+
+	public int getDiscount() {
+		return this.discount;
 	}
-	
-	public void setDiscountint (int discount) {
-		this.discount = discount;	
+
+	public void setDiscountint(int discount) {
+		this.discount = discount;
 	}
-	
-	public String toString () {
-		return getName() + "(" + getID()+")("+getDiscount()+"(%)";
-		
+
+	public String toString() {
+		return getName() + "(" + getID() + ")(" + getDiscount() + "(%)";
+
 	}
-	
-	
-	
-	
-	
-	
-	
 }
